@@ -1,0 +1,14 @@
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/bin/Debug/net10.0/PorteeVariables
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/bin/Debug/net10.0/PorteeVariables.deps.json
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/bin/Debug/net10.0/PorteeVariables.runtimeconfig.json
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/bin/Debug/net10.0/PorteeVariables.dll
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/bin/Debug/net10.0/PorteeVariables.pdb
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.AssemblyInfoInputs.cache
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.AssemblyInfo.cs
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.csproj.CoreCompileInputs.cache
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.dll
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/refint/PorteeVariables.dll
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.pdb
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/PorteeVariables.genruntimeconfig.cache
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/PorteeVariables/obj/Debug/net10.0/ref/PorteeVariables.dll

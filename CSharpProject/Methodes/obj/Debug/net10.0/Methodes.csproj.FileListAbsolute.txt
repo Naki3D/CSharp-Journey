@@ -1,0 +1,14 @@
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/bin/Debug/net10.0/Methodes
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/bin/Debug/net10.0/Methodes.deps.json
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/bin/Debug/net10.0/Methodes.runtimeconfig.json
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/bin/Debug/net10.0/Methodes.dll
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/bin/Debug/net10.0/Methodes.pdb
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.AssemblyInfoInputs.cache
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.AssemblyInfo.cs
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.csproj.CoreCompileInputs.cache
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.dll
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/refint/Methodes.dll
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.pdb
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/Methodes.genruntimeconfig.cache
+/Users/naki/Documents/DEVELOPPEMENT/DOTNET/CSharpProject/Methodes/obj/Debug/net10.0/ref/Methodes.dll
